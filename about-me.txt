@@ -1,5 +1,8 @@
 Please introduce yourself!
 
-- Your name:
-- Why you are interested in Web Development:
-- One fun fact about yourself or a goal for this course:
+Hey! I'm Naim, I'm 28 years old. Living in Netherlands.
+Currently studying on web development, and making music when I have time.
+
+- Your name: Naim
+- Why you are interested in Web Development: It feels good..
+- One fun fact about yourself or a goal for this course: Actually, everything we learn is so valuable and sirious, but we don't act like they are, and this makes us everything funny :D
